@@ -1,3 +1,6 @@
 plugins:
     - jekyll-feed
     - jekyll-sitemap
+
+exclude:
+    - assets/css/main.styl
