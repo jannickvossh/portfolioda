@@ -170,15 +170,15 @@
 		"oS": 1,
 		"rrU": 0
 		},
-	"/img/portfolio-design.png": {
-		"ft": 32768,
-		"iS": 4786288,
+	"/img/portfolio-design.jpg": {
+		"ft": 16384,
+		"iS": 358836,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio-design.png",
+		"oAP": "/img/portfolio-design.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/js/functions.js": {
