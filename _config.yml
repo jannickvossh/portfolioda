@@ -5,3 +5,4 @@ plugins:
 exclude:
     - assets/css/main.styl
     - assets/config.codekit3
+    - assets/img/portfolio-design.png
