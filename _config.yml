@@ -4,3 +4,4 @@ plugins:
 
 exclude:
     - assets/css/main.styl
+    - assets/config.codekit3
