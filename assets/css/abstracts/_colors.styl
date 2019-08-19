@@ -1,1 +1,29 @@
 // define site color variables
+
+pri-color = #333333
+sec-color = #16D1DA
+
+// set site colors
+
+bg-color = white
+sec-bg-color = pri-color
+text-color = pri-color
+sec-text-color = white
+link-color = sec-color
+sec-link-color = white
+selection-color = sec-color
+
+body
+	background bg-color
+
+h1, h2, h3, h4, h5, h6, p
+	color text-color
+
+a
+	color link-color
+
+li
+	color sec-link-color
+
+::selection
+	background selection-color
