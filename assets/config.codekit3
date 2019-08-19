@@ -139,6 +139,19 @@
 		"oS": 1,
 		"rrU": 0
 		},
+	"/css/layout/_section.styl": {
+		"aP": 1,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/layout/_section.css",
+		"oF": 0,
+		"oS": 1,
+		"rrU": 0
+		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -176,6 +189,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/portfolio-design.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/start-img.jpg": {
+		"ft": 16384,
+		"iS": 197043,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/start-img.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
