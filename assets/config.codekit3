@@ -126,6 +126,19 @@
 		"oS": 1,
 		"rrU": 0
 		},
+	"/css/components/_header.styl": {
+		"aP": 1,
+		"bl": 0,
+		"dS": 0,
+		"ft": 8,
+		"iC": 0,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/components/_header.css",
+		"oF": 0,
+		"oS": 1,
+		"rrU": 0
+		},
 	"/css/layout/_grids.styl": {
 		"aP": 1,
 		"bl": 0,
