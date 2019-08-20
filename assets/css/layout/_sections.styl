@@ -78,6 +78,7 @@
 
 	#showcase-container
 		align-items center
+		padding-top 20px
 
 		#category-selector
 			display flex
@@ -88,9 +89,31 @@
 			height 40px
 			padding 4px
 			border-radius 28px
+			box-shadow 2px 2px 4px rgba(sec-bg-color, 0.8)
+
+			.category-switch
+				height 40px
+				width 150px
+				background bg-color
+				position absolute
+				top 50%
+				left 4px
+				transform translateY(-50%)
+				border-radius 20px
+
+				&.moved
+					left auto
+					right 4px
 
 			.category
 				height 100%
-				width 100px
-				background bg-color
-				border-radius 20px
+				width 150px
+				font-size 1rem
+				font-weight 800
+				line-height 40px
+				text-align center
+				text-transform uppercase
+				color rgba(sec-text-color, 0.5)
+
+				&.active
+					color rgba(text-color, 1)
