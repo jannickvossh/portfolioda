@@ -91,19 +91,18 @@
 			border-radius 28px
 			box-shadow 2px 2px 4px rgba(sec-bg-color, 0.8)
 
-			.category-switch
+			#category-switch
 				height 40px
 				width 150px
 				background bg-color
 				position absolute
 				top 50%
 				left 4px
-				transform translateY(-50%)
+				transform translate(0, -50%)
 				border-radius 20px
 
 				&.moved
-					left auto
-					right 4px
+					transform translate(150px, -50%)
 
 			.category
 				height 100%
