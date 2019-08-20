@@ -228,14 +228,14 @@
 		"opt": 1,
 		"q": 50
 		},
-	"/js/functions.js": {
+	"/js/_functions.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/js/functions.js",
-		"oF": 0,
+		"oF": 3,
 		"sC": 1,
 		"tS": 1
 		}
