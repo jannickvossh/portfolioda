@@ -13,15 +13,38 @@
 		width 80%
 		max-width 400px
 
-	#scroll-explain
+	#scroll-explain-container
 		position absolute
-		text-align center
-		left 50%
-		bottom 40px
-		transform translateX(-50%)
 		text-decoration none
-		color rgba(sec-text-color, 0.5)
-		font-size 1.25rem
+		bottom 40px
+		left 50%
+		transform translateX(-50%)
+		display flex
+		flex-direction column
+		align-items center
+
+		&:hover
+
+			#scroll-explain
+				color rgba(sec-text-color, 1)
+
+		#scroll-explain
+			text-align center
+			color rgba(sec-text-color, 0.5)
+			font-size 1.25rem
+			margin-bottom 10px
+
+		.scroll-indicator
+			position relative
+			height 50px
+
+			.mouse
+				fill bg-color
+
+			.dot
+				position absolute
+				fill bg-color
+				animation scroll-indicator 1500ms ease-in-out infinite forwards
 
 #about-section
 
