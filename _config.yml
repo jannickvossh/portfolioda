@@ -7,3 +7,5 @@ exclude:
     - assets/config.codekit3
     - assets/img/portfolio-design.jpg
     - README.md
+
+permalink: /:title:output_ext
