@@ -1,0 +1,9 @@
+{% for category in site.categories %}
+	<ul class="post-grid">
+		{% for post in category[1] %}
+			<li>
+				<a href="{{ post.url }}">{{ post.title }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+{% endfor %}

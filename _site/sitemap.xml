@@ -5,6 +5,10 @@
 <lastmod>2019-08-22T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/second-post.html</loc>
+<lastmod>2019-08-22T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 </urlset>
