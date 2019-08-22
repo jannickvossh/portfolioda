@@ -152,7 +152,7 @@
 		"oS": 1,
 		"rrU": 0
 		},
-	"/css/layout/_post-grid.styl": {
+	"/css/components/_post-grid.styl": {
 		"aP": 1,
 		"bl": 0,
 		"dS": 0,
@@ -160,7 +160,7 @@
 		"iC": 0,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/css/layout/_post-grid.css",
+		"oAP": "/css/components/_post-grid.css",
 		"oF": 0,
 		"oS": 1,
 		"rrU": 0
