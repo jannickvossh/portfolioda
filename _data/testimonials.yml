@@ -1,0 +1,9 @@
+- name: Porta Bibendum
+  image: /assets/img/blank.jpg
+  job: CEO, Pharetra
+  testimonial: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+- name: Pellentesque Commodo
+  image: /assets/img/blank2.jpg
+  job: CEO, Etiam Fermentum
+  testimonial: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
